@@ -98,4 +98,4 @@ After running the playbook, verify that everything is working correctly:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/MGhaith/Configuration-Management-Ansible/blob/main/README.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MGhaith/Configuration-Management-Ansible/blob/main/LICENSE) file for details.
