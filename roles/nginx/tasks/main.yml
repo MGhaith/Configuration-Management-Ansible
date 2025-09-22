@@ -1,5 +1,5 @@
 #############################
-# Installs and configures nginx
+#        Nginx Role         #
 #############################
 
 - name: Install nginx
