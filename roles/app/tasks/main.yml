@@ -1,0 +1,6 @@
+---
+- name: Clone website repo
+  git:
+    repo: "https://github.com/your-username/your-static-site.git"
+    dest: /var/www/html/
+    version: main
