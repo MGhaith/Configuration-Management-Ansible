@@ -1,4 +1,7 @@
----
+#############################
+# Installs and configures nginx
+#############################
+
 - name: Install nginx
   apt:
     name: nginx

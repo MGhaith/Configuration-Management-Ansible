@@ -1,7 +1,10 @@
----
+#############################
+#         SSH Role          #
+#############################
+
 - name: Add authorized key for user
   authorized_key:
     user: ubuntu
     state: present
-    key: "{{ lookup('file', '~/.ssh/id_rsa.pub') }}"
+    key: "{{ lookup('file', '~/.ssh/id_rsa.pub') }}" # Change the path to your public SSH key file
 
